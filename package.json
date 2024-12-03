@@ -2,7 +2,7 @@
   "name": "3.2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mawwal-ecpi.github.io/githup-deployue",
+  "homepage": "https://mawwal-ecpi.github.io/3.2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
