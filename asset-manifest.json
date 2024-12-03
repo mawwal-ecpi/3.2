@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/githup-deployue/static/css/main.e6c13ad2.css",
+    "main.js": "/githup-deployue/static/js/main.9f1d7fce.js",
+    "static/js/453.ad69d545.chunk.js": "/githup-deployue/static/js/453.ad69d545.chunk.js",
+    "index.html": "/githup-deployue/index.html",
+    "main.e6c13ad2.css.map": "/githup-deployue/static/css/main.e6c13ad2.css.map",
+    "main.9f1d7fce.js.map": "/githup-deployue/static/js/main.9f1d7fce.js.map",
+    "453.ad69d545.chunk.js.map": "/githup-deployue/static/js/453.ad69d545.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9f1d7fce.js"
+  ]
+}
